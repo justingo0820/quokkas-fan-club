@@ -22,7 +22,7 @@ html, body {
 a{
 	font-weight: 400;
 	color: #555;
-	text-decoration: none;
+	text-decoration: underline;
 	margin-bottom:1rem;
 
 }
